@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sjz0oCTAFbK8MpnfjPma9Dw9eLnoYl9iCMIvRE+0wqc=",
+  "Source": "DotnetCoreFirebasePushNotification",
+  "BasePath": "_content/DotnetCoreFirebasePushNotification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
